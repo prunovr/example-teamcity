@@ -10,4 +10,9 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
+
+	public String sayCatcher(){
+		return "A hunter hired a guide to lead him through the forest. The hunter soon
+discovered they were walking around in circles.";
+	}
 }
